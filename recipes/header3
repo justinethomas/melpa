@@ -1,0 +1,7 @@
+(header3
+:repo "justinethomas/header3"
+:fetcher github
+:files(
+       "*.el"
+       ("templates" "templates/*")
+))
